@@ -19,12 +19,12 @@ This repository contains a script that helps you to setup a SOCKS5 proxy server 
 ## Installation
 Run the script auth
 ```bash
-wget https://raw.githubusercontent.com/saaiful/socks5/main/socks5.sh
+wget https://raw.githubusercontent.com/pegakmop/socks5/main/socks5.sh
 sudo bash socks5.sh
 ```
 Run the script no auth
 ```bash
-wget https://raw.githubusercontent.com/saaiful/socks5/main/socks5noauth.sh
+wget https://raw.githubusercontent.com/pegakmop/socks5/main/socks5noauth.sh
 sudo bash socks5noauth.sh
 ```
 
