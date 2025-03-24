@@ -17,10 +17,15 @@ This repository contains a script that helps you to setup a SOCKS5 proxy server 
 - **Port Selection:** Allows specifying a custom port with validation.
 
 ## Installation
-Run the script
+Run the script auth
 ```bash
 wget https://raw.githubusercontent.com/saaiful/socks5/main/socks5.sh
 sudo bash socks5.sh
+```
+Run the script no auth
+```bash
+wget https://raw.githubusercontent.com/saaiful/socks5/main/socks5.sh
+sudo bash socks5noauth.sh
 ```
 
 You will be prompted for various options such as `reconfiguring`, `adding users`, or `uninstalling` the SOCKS5 server if it is already installed. During installation, you'll also be prompted for a `username` and `password` for the proxy authentication.
